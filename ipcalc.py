@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # pep8-ignore: E501, E241
 # pylint: disable=invalid-name
-
+# How can I run this code?
 """
 IP subnet calculator.
 
